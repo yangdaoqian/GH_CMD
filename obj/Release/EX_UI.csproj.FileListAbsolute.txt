@@ -1,0 +1,13 @@
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\EX_UI.csprojAssemblyReference.cache
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.CONS.UI_COLOR.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.CONS.UI_GRADIENT.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.CONS.UI_GRAPH.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.CONS.UI_PSETTING.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.CONS.UI_SLIDER.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.CONS.UI_CHECK_ITEM.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.CONS.UI_SLIDER_LABEL.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.CONS.UI_SLIDER_PANEL.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.CONS.PasswordWindow.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\UI.ICONS.resources
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\EX_UI.csproj.GenerateResource.cache
+C:\Users\panda\source\repos\PANDA5\EX_UI\obj\Release\EX_UI.csproj.CoreCompileInputs.cache

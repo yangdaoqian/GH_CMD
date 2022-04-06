@@ -1,0 +1,13 @@
+C:\Users\panda\source\repos\PANDA5\GH_CMD\bin\Debug\GH_IO.dll
+C:\Users\panda\source\repos\PANDA5\GH_CMD\bin\Debug\Grasshopper.dll
+C:\Users\panda\source\repos\PANDA5\GH_CMD\bin\Debug\RhinoCommon.dll
+C:\Users\panda\source\repos\PANDA5\GH_CMD\obj\Debug\GH_CMD.csproj.GenerateResource.cache
+C:\Users\panda\source\repos\PANDA5\GH_CMD\obj\Debug\GH_CMD.csproj.CoreCompileInputs.cache
+C:\Users\panda\source\repos\PANDA5\GH_CMD\obj\Debug\GH_CMD.csproj.CopyComplete
+C:\Users\panda\source\repos\PANDA5\GH_CMD\bin\Debug\GH_CMD.dll.config
+C:\Users\panda\source\repos\PANDA5\GH_CMD\bin\Debug\GH_CMD.dll
+C:\Users\panda\source\repos\PANDA5\GH_CMD\bin\Debug\GH_CMD.pdb
+C:\Users\panda\source\repos\PANDA5\GH_CMD\obj\Debug\GH_CMD.ICONS.resources
+C:\Users\panda\source\repos\PANDA5\GH_CMD\obj\Debug\GH_CMD.dll
+C:\Users\panda\source\repos\PANDA5\GH_CMD\obj\Debug\GH_CMD.pdb
+C:\Users\panda\source\repos\PANDA5\GH_CMD\obj\Debug\GH_CMD.csprojAssemblyReference.cache
